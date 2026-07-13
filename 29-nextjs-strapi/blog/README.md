@@ -1,0 +1,51 @@
+# Frontend: Blog em NextJS consumindo a API do Strapi
+
+Aulas relacionadas (Seção 29):
+
+- [ ] 434. NextJS - create-next-app
+- [ ] 435. NextJS + TypeScript
+- [ ] 436. Editorconfig
+- [ ] 437. Configurando o ESLint
+- [ ] 438. Corrigindo a versão do React no ESLint
+- [ ] 439. Configurando o Prettier
+- [ ] 440. Movendo arquivos para pasta ./src
+- [ ] 441. Configurando o styled-components
+- [ ] 442. Corrigindo AppProps
+- [ ] 443. Usando exemplos com create-next-app
+- [ ] 444. NextJS - Rotas estáticas e dinâmicas
+- [ ] 445. Tipagem dos posts do Strapi
+- [ ] 446. NextJS SSG com getStaticProps
+- [ ] 447. Organizando as pastas do projeto
+- [ ] 448. Apresentação do blog e possível exercício
+- [ ] 449. Componente Header
+- [ ] 450. Componente MainContainer
+- [ ] 451. Configurando a grid de posts
+- [ ] 452. Componente PostCard
+- [ ] 453. Componente Footer
+- [ ] 454. Adicionando a query em getAllPosts
+- [ ] 455. NextJS - getStaticPaths + getStaticProps
+- [ ] 456. Convertendo Markdown para HTML com Remark
+- [ ] 457. Container Post
+- [ ] 458. Componente Heading
+- [ ] 459. Componente PostCover
+- [ ] 460. Componente PostDate
+- [ ] 461. Componente PostDetails
+- [ ] 462. Componente PostContainer
+- [ ] 463. Componente Comments
+- [ ] 464. Mais detalhes sobre comentários no localhost (127.0.0.1)
+- [ ] 465. Deploy estático na Netlify
+- [ ] 466. Adicionando <Head /> nas páginas
+- [ ] 467. NettJS SSR com getServerSideProps
+- [ ] 468. Deploy com SSR e SSG na Netlify
+- [ ] 469. Configurando o Strapi para notificar a Netlify
+- [ ] 470. Adicionando meu próprio domínio
+- [ ] 471. Fix: movendo <Comments /> para pasta components
+- [ ] 472. Fallback e Revalidade com SSG
+- [ ] 473. Adicionando um título diferente para categorias
+- [ ] 474. Testes: configurando o jest
+- [ ] 475. Paginação - Parte 1
+- [ ] 476. Paginação - Parte 2
+- [ ] 477. Paginação - Parte 3
+- [ ] 478. Paginação - Parte 4
+- [ ] 479. Paginação - Parte 5
+- [ ] 480. Configurando o Storybook

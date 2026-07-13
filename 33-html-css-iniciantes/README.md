@@ -1,0 +1,49 @@
+# Seção 33: HTML5 e CSS3 (Para iniciantes)
+
+## Aulas
+
+- [ ] 565. Introdução à seção
+- [ ] 566. Estrutura do HTML
+- [ ] 567. Estrutura do HTML e Meta ViewPort
+- [ ] 568. Atributos de id e class
+- [ ] 569. Headings: do H1 ao H6
+- [ ] 570. Tags HTML para texto (links, imagens, etc)
+- [ ] 571. Conheça todas as tags HTML
+- [ ] 572. Semântica na estrutura do HTML5
+- [ ] 573. Pensando em HTML e CSS
+- [ ] 574. Introdução ao CSS Box-Model
+- [ ] 575. Listas e Menus com HTML e CSS
+- [ ] 576. Tabelas HTML
+- [ ] 577. Formulários e Inputs HTML - Parte 1
+- [ ] 578. Formulários e Inputs HTML - Parte 2
+- [ ] 579. Formulários e Inputs HTML - Parte 3
+- [ ] 580. Formulários e Inputs HTML - Parte 4
+- [ ] 581. Separando HTML e CSS em arquivos diferentes
+- [ ] 582. Quem dá estilo ao HTML é o CSS
+- [ ] 583. Seletores básicos do CSS - Parte 1
+- [ ] 584. Seletores básicos do CSS - Parte 2
+- [ ] 585. Seletores de atributos do CSS
+- [ ] 586. Pseudo-classes
+- [ ] 587. Pseudo-classe :not()
+- [ ] 588. Pseudo-classe :nth-child()
+- [ ] 589. Pseudo-elements
+- [ ] 590. Especificidade CSS
+- [ ] 591. Herança e as propriedades que são passadas para elementos filhos
+- [ ] 592. Propriedade específicas do Box-Model (largura, altura, padding, border e margin)
+- [ ] 593. Float e Display (Block, Inline-Block e Inline)
+- [ ] 594. Cores HTML
+- [ ] 595. Unidades de medidas no CSS (px, rem, em, vw, vh, %)
+- [ ] 596. Propriedades para textos
+- [ ] 597. Posicionamento - Position
+- [ ] 598. Media queries e breakpoints
+- [ ] 599. Uma breve junção de tudo aprendido até aqui
+- [ ] 600. Border-radius (elementos redondos ou curvados)
+- [ ] 601. Box-shadow (sombra em elementos)
+- [ ] 602. Flexbox - parte 1
+- [ ] 603. Flexbox - Parte 2
+- [ ] 604. Flexbox - Parte 3
+- [ ] 605. Flexbox - Parte 4
+- [ ] 606. CSS Grid - Parte 1
+- [ ] 607. CSS Grid - Parte 2
+- [ ] 608. Espaçamento entre linhas e colunas - GAP
+- [ ] 609. Grid template areas
